@@ -1,6 +1,6 @@
 # Laravel API
 
-- Laravel API Huda Prasetyo From Medium
+- Laravel 6 + VueJs Huda Prasetyo From Medium
 
 # First Thing First
 > Clone / Download first :D
