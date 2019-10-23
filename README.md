@@ -7,6 +7,8 @@
 
 > Change .env.example to .env then update env
 
+> composer update
+
 > php artisan migrate:fresh --seed
 
 > composer require laravel/ui --dev
